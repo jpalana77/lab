@@ -1,0 +1,27 @@
+Date,Product,Category,Price,Quantity Sold,Customer ID,Region
+2025-01-01,Widget A,Widgets,25.00,10,C001,North
+2025-01-01,Widget B,Widgets,30.00,15,C002,South
+2025-01-01,Gadget A,Gadgets,50.00,5,C003,East
+2025-01-02,Widget A,Widgets,25.00,20,C001,North
+2025-01-02,Widget C,Widgets,40.00,8,C004,West
+2025-01-02,Gadget B,Gadgets,55.00,10,C005,South
+2025-01-03,Widget B,Widgets,30.00,12,C002,East
+2025-01-03,Gadget A,Gadgets,50.00,7,C003,North
+2025-01-03,Widget A,Widgets,25.00,5,C006,West
+2025-01-04,Widget C,Widgets,40.00,10,C004,South
+2025-01-04,Gadget B,Gadgets,55.00,15,C005,East
+2025-01-05,Widget A,Widgets,25.00,30,C001,North
+2025-01-05,Widget B,Widgets,30.00,25,C002,South
+2025-01-05,Gadget A,Gadgets,50.00,10,C003,West
+2025-01-06,Widget C,Widgets,40.00,5,C004,North
+2025-01-06,Gadget B,Gadgets,55.00,8,C005,East
+2025-01-07,Widget A,Widgets,25.00,15,C001,South
+2025-01-07,Widget B,Widgets,30.00,20,C002,West
+2025-01-07,Gadget A,Gadgets,50.00,12,C003,North
+2025-01-08,Widget C,Widgets,40.00,10,C004,East
+2025-01-08,Gadget B,Gadgets,55.00,20,C005,South
+2025-01-09,Widget A,Widgets,25.00,18,C001,West
+2025-01-09,Widget B,Widgets,30.00,22,C002,North
+2025-01-09,Gadget A,Gadgets,50.00,9,C003,East
+2025-01-10,Widget C,Widgets,40.00,14,C004,South
+2025-01-10,Gadget B,Gadgets,55.00,11,C005,West
